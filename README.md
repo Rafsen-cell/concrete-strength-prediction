@@ -119,13 +119,14 @@ Concrete-Strength-Prediction/
 │   └── processed/
 │
 ├── notebooks/
-│   ├── 01_business_understanding.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   └── 04_modeling.ipynb
+│   ├── 01-business-understanding.ipynb
+│   ├── 02-Cleaning.ipynb
+│   ├── 03-eda.ipynb
+│   ├── 04-feature-engineering.ipynb
+│   └── 05-modeling.ipynb
 │
 ├── models/
-│   └── random_forest.pkl
+│   └── models/concrete_strength_model.pkl
 │
 ├── app/
 │   └── app.py              # Coming Soon
